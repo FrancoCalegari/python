@@ -1,0 +1,13 @@
+Los datos son: 
+Nombre: Franco
+Apellido: Calegari
+-------
+Nombre: Daniela
+Apellido: Olmedo
+-------
+Nombre: Josefina
+Apellido: Adamo
+-------
+Nombre: Agostina
+Apellido: Nazi
+-------
